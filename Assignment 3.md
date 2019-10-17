@@ -10,5 +10,5 @@ Write an Arduino Program with 1 LED and 2 buttons:
 
 ## Task 2
 
-Write a program to vary the brightness of an LED using a transistor as an interface. The range of brightness should be divided into 5 levels. The user can input either 'one', two', ..., 'five' to get the brightness of the corresponding levels. If the maximum brightness is 100, each level should be 20. If the user enters ‘three’, the brightness should be corresponding to level three, that is, 60.
+Write a program to vary the brightness of an LED using a transistor as an interface. The range of brightness should be divided into 5 levels. The user can input either `one`, `two`, ..., `five`to get the brightness of the corresponding levels. If the maximum brightness is 100, each level should be 20. If the user enters `three`, the brightness should be corresponding to level three, that is, 60.
 
